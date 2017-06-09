@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Nawal's Info
 
-You can use the [editor on GitHub](https://github.com/Nawali/Nawali/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hai! My name is Nawal and this website will have a combination of things that I personally like or stuff in general that I want to talk about. I am 15 years old(as of June, 2017) and I am a sophomore at [Acadmey for Software Engineering](https://github.com/Nawali/Nawali/edit/master/README.md). That was a link to my schools website, were just starting out and were an average school however we teach computer science which makes us special and pretty cool. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -27,6 +27,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### 
+
 
 ### Jekyll Themes
 
