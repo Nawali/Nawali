@@ -2,24 +2,18 @@
 
 Hai! My name is Nawal and this website will have a combination of things that I personally like or stuff in general that I want to talk about. I am 15 years old(as of June, 2017) and I am a sophomore at [Acadmey for Software Engineering](https://www.afsenyc.org/). That was a link to my schools website, were just starting out and were an average school however we teach computer science which makes us special and pretty cool. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My life is pretty simple. I'm an average girl who goes to a special school full of bullies, ideaologist and dreamers. However, school is a bit like society in that we have a social class where people fall in but slowly were mixing and its pretty cool. Sadly, like every other school we have bullies and boys who think its fun to do disgusting and dirty things. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+School Lunch
 
 ```markdown
-Syntax highlighted code block
+School lunch- let me rephrase that, highschool lunch has not changed from middle school lunch. Its stil the most dirty, weird, disgusting, depressing food that was ever creating on the planet. Yet, students still want to eat this and it scares me sometimes.
 
-# Header 1
-## Header 2
-### Header 3
+- Todays Lunch
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. **FAKE** cheese steak on a New York Hero
+2. **BROWN LOOKING** cold bean salad
+3. (only good thing on menu)New York Apple Slices
 
 **Bold** and _Italic_ and `Code` text
 
